@@ -1,0 +1,9 @@
+{
+    "Type" : "AWS::SageMaker::Project",
+    "Properties" : {
+        "ProjectDescription" : String,
+        "ProjectName" : String,
+        "ServiceCatalogProvisioningDetails" : Json,
+        "Tags" : [ Tag, ... ]
+      }
+  }
