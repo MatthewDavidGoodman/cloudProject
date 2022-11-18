@@ -1,1 +1,3 @@
 # cloudProject
+
+#https://github.com/sedaatalay/Running-PySpark-on-AWS-EC2-through-Jupyter-Notebook-and-RDD-Basics-Examples
